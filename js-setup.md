@@ -18,6 +18,8 @@ npm i eslint -S
 
 ### Prettier
 ```
+npm install -g prettier
+
 --- project ---
 npx prettier-init
 ```
