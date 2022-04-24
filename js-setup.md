@@ -30,7 +30,7 @@ npm install -g eslint
 
 --- project ---
 npm init @eslint/config
-npm install --save-dev eslint-config-prettier eslint-plugin-prettier
+npm install --save-dev prettier eslint-config-prettier eslint-plugin-prettier
 
 --- eslintrc file ---
 {
