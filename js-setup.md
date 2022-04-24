@@ -55,6 +55,7 @@ npm i @typescript-eslint/parser -S
   extends: ["airbnb","airbnb-typescript"],
   extends: ["airbnb-base","airbnb-typescript/base"], //with out react
   parserOptions: {
+    tsconfigRootDir: __dirname,
     project: './tsconfig.json'
   }
 }
